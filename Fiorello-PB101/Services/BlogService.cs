@@ -28,5 +28,10 @@ namespace Fiorello_PB101.Services
             return blogs.Select(m => new BlogVM { Title = m.Title, Description = m.Description, Image = m.Image, CreatedDate = m.CreatedDate.ToString("MM.dd.yyyy") });
         }
 
+        public async Task<Blog> GetByIdAsync(int? id)
+        {
+            return await _context.Blogs
+         .FirstOrDefaultAsync(m => m.Id == id);
+        }
     }
 }

@@ -14,5 +14,15 @@ namespace Fiorello_PB101.Controllers
         {
             return View(await _blogService.GetAllAsync());
         }
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            var blog = await _blogService.GetByIdAsync(id);
+            if (blog == null)
+            {
+                return NotFound();
+            }
+            return View(blog);
+        }
     }
 }

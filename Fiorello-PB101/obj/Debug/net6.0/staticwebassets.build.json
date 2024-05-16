@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q3QbHT6+5BA68C1smZZhpv7aD6l1rjmKdF76qd4Wp+E=",
+  "Hash": "eEtu1hgj7Xg40Gg92qaMbsK/Ft14bu53UmLECoAtEc4=",
   "Source": "Fiorello-PB101",
   "BasePath": "_content/Fiorello-PB101",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Fiorello-PB101\\Fiorello-PB101\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fiorello-PB101.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\detail.css",
+      "SourceId": "Fiorello-PB101",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\",
+      "BasePath": "_content/Fiorello-PB101",
+      "RelativePath": "css/detail.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\detail.css"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\product.css",

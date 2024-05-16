@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Fiorello-PB101.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\HP\\Desktop\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\detail.css",
+      "PackagePath": "staticwebassets\\css\\detail.css"
+    },
+    {
       "Id": "C:\\Users\\HP\\Desktop\\Fiorello-PB101\\Fiorello-PB101\\wwwroot\\css\\product.css",
       "PackagePath": "staticwebassets\\css\\product.css"
     },
